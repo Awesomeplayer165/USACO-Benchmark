@@ -27,7 +27,7 @@ For more detailed information on GPU Requirements, please see [this resource](ht
 Clone the repository and install the requirements:
 
 ```bash
-git clone https://github.com/1usaco/USACO-Benchmark
+git clone https://github.com/Awesomeplayer165/USACO-Benchmark
 cd USACO-Benchmark
 pip install -r requirements.txt
 ```
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 There are three stages for this benchmark:
 
-### 1. Download the supporting files folder from the [GitHub releases](https://github.com/1usaco/USACO-Benchmark/releases) page
+### 1. Download the supporting files folder from the [GitHub releases](https://github.com/Awesomeplayer165/USACO-Benchmark/releases) page
 Note: `supporting_files` archive is under 2GB, but uncompressing will consume 6.1GB (after deleting the original archive).
 
 Specifically, you need to download all `supporting_files.7z.*` into the root of the repo.
