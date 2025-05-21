@@ -1,0 +1,6 @@
+ollama
+beautifulsoup4
+pandas
+requests
+numpy
+OpenAI
