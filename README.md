@@ -81,8 +81,8 @@ Evaluations also uses the `config.json` file to identify which completion folder
 
 # Authors
 
-- [Jacob Trentini](https://www.linkedin.com/in/jacobtrentini/)
-- [Victor Liu](https://google.com)
-- [Yiming Peng](https://google.com)
+- [Jacob Trentini](https://jacobtrentini.com)
+- Victor Liu
+- Yiming Peng
 
-Mentor: [Dr. Zong](https://google.com)
+Mentor: [Dr. Zong]([https://google.com](https://userweb.cs.txstate.edu/~zz11/))
